@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "themoviedb.url",
+    "type": "java.lang.String",
+    "description": "A description for 'themoviedb.url'"
+  },
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key'"
+  }
+]}
